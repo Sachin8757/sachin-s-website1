@@ -1,0 +1,18 @@
+.card-buttom:hover{
+     background-color: rgb(90, 80, 80);
+     color: white;
+     transition-duration: .5s;
+
+}
+.card-body :hover.card{
+    transform: scale(1.1);
+    transition-duration: 500ms;
+}
+.btn1:hover{
+    transform: scale(1.1);
+    transition-duration: 500ms;
+}
+.btn2:hover{
+    transform: scale(1.1);
+    transition-duration: 500ms;
+}
